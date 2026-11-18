@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Get busted. Get paid. 1000x perps where the losers get paid." width="100%">
+</p>
+
 <h3 align="center">1000x perps on Solana where the losers get paid.</h3>
 
 <p align="center">
